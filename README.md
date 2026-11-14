@@ -76,7 +76,6 @@ If you have an idea that could make the mobile GitHub experience better, feel fr
 ## License
 
 This project is licensed under the **MIT License**.
-
 ---
 ## Contact
 
