@@ -65,7 +65,7 @@ Navigating a full development platform on a small screen shouldn't feel clunky. 
 - [ ] Quick-access Releases bar
 - [ ] Swipe gestures (notifications, pinning, deletion)
 - [ ] Built-in 2FA (TOTP) authenticator
-- [ ] First public release on GitHub & Orion Store
+- [x] First public release on GitHub & Orion Store
 
 ## Contributing
 
