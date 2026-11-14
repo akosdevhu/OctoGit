@@ -85,7 +85,15 @@ This project is licensed under the **MIT License**.
 
 <sub>Making GitHub a better experience, one screen at a time.</sub>
 
-<br/><br/>
+<br/>
+## Contact
+
+**Made by akosdevhu**
+
+- GitHub: https://github.com/akosdevhu
+- Instagram: https://www.instagram.com/akosdevhu
+- Email: akosdevhu@gmail.com
+<br/>
 
 ![Made with passion](https://img.shields.io/badge/Made%20with-Passion-blue?style=flat-square)
 
