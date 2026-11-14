@@ -78,14 +78,6 @@ If you have an idea that could make the mobile GitHub experience better, feel fr
 This project is licensed under the **MIT License**.
 
 ---
-
-<div align="center">
-
-### Built for developers. Designed for mobile.
-
-<sub>Making GitHub a better experience, one screen at a time.</sub>
-
-<br/>
 ## Contact
 
 **Made by akosdevhu**
@@ -93,7 +85,15 @@ This project is licensed under the **MIT License**.
 - GitHub: https://github.com/akosdevhu
 - Instagram: https://www.instagram.com/akosdevhu
 - Email: akosdevhu@gmail.com
-<br/>
+---
+
+<div align="center">
+
+### Built for developers. Designed for mobile.
+
+<sub>Making GitHub a better experience, one screen at a time.</sub>
+
+<br/><br/>
 
 ![Made with passion](https://img.shields.io/badge/Made%20with-Passion-blue?style=flat-square)
 
