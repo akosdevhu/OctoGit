@@ -61,7 +61,7 @@ Navigating a full development platform on a small screen shouldn't feel clunky. 
 
 - [x] GitHub authentication & account overview
 - [x] Repository browser & file tree viewer
-- [ ] Direct file & README editor with file uploads *Soon*
+- [ ] Direct file & README editor with file uploads
 - [ ] Quick-access Releases bar
 - [ ] Swipe gestures (notifications, pinning, deletion)
 - [ ] Built-in 2FA (TOTP) authenticator
