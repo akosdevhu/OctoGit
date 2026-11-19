@@ -46,6 +46,7 @@ The goal is simple: combine a clean, OLED-friendly interface with genuine editin
 | **Real Code & README Editing** | Edit files, update documentation, and upload assets directly from your phone. |
 | **Gesture-First Navigation** | Swipe to mark notifications as read, pin important repositories, or manage items quickly. |
 | **Releases Management** | View, create, and manage repository releases right from the main repo view. |
+| **Built-in 2FA Authenticator** | Integrated two-factor authentication support so you never have to switch apps to log in. |
 | **Clean OLED Dark UI** | Distraction-free, battery-friendly dark design tailored for one-handed use. |
 
 ## The Vision
