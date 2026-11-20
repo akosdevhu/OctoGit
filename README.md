@@ -19,13 +19,6 @@ A modern GitHub client designed to bring repository management, code editing, an
 [![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=octogit)
 
 </div>
-<div align="center">
-
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Latest Beta Release" height="42" />
-  </a>
-
-</div>
 
 ---
 
