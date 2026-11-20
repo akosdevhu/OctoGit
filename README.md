@@ -1,17 +1,12 @@
-
 <div align="center">
 
-<div align="center">
- <img src="octogitbanner.png"
- width="200%"
- alt="OctoGit Banner" />
-</div>
+<img src="octogitbanner.png" width="100%" alt="OctoGit Banner" />
 
 <br/>
 
 ### A better way to experience GitHub on mobile.
 
-A modern, simplified GitHub client designed to make your everyday GitHub experience smoother, faster and more intuitive.
+A modern GitHub client designed to bring repository management, code editing, and essential development tools to your mobile device.
 
 <br/>
 
@@ -19,82 +14,87 @@ A modern, simplified GitHub client designed to make your everyday GitHub experie
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-</div>
-
 <br/>
 
 [![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=octogit)
 
-<br/>
+</div>
 
 ---
 
-## About
+## Overview
 
-GitHub is an essential tool for developers, but its official mobile app is mostly built for viewing rather than getting real work done.
+OctoGit is a mobile GitHub client built to provide a more practical and efficient way to manage repositories on the go.
 
-**OctoGit** rethinks how developers interact with their repositories on the go.
+While traditional mobile interfaces often focus on browsing and viewing content, OctoGit aims to bring essential development workflows directly to your phone.
 
-The goal is simple: combine a clean, OLED-friendly interface with genuine editing tools, fast gesture controls, and built-in security features in one place.
+Combining a refined interface with repository management, editing capabilities, gesture-based interactions, and integrated security tools, OctoGit aims to make working with GitHub on mobile more accessible.
 
-**Not just a viewer. A true mobile workspace for GitHub.**
+**A complete GitHub workspace, designed for mobile.**
 
 ## Features
 
 | Feature | Description |
 |:---|:---|
-| **Real Code & README Editing** | Edit files, update documentation, and upload assets directly from your phone. |
-| **Gesture-First Navigation** | Swipe to mark notifications as read, pin important repositories, or manage items quickly. |
-| **Releases Management** | View, create, and manage repository releases right from the main repo view. |
-| **Built-in 2FA Authenticator** | Integrated two-factor authentication support so you never have to switch apps to log in. |
-| **Clean OLED Dark UI** | Distraction-free, battery-friendly dark design tailored for one-handed use. |
+| **Code & README Editing** | Edit repository files, update documentation, and upload assets directly from your device. |
+| **Gesture-Based Navigation** | Manage notifications, pin repositories, and perform common actions using intuitive gestures. |
+| **Release Management** | View, create, and manage repository releases from a dedicated interface. |
+| **Integrated 2FA Authenticator** | Built-in TOTP authentication for convenient two-factor code generation. |
+| **OLED-Friendly Interface** | A clean dark interface designed for readability and comfortable mobile use. |
+| **Repository Management** | Browse repositories, explore file structures, and access your GitHub content. |
 
-## The Vision
+## Design Philosophy
 
-Navigating a full development platform on a small screen shouldn't feel clunky. OctoGit focuses on three core principles:
+OctoGit is built around three principles:
 
-- **Actionable** — Edit files, manage releases, and ship updates right from your phone.
-- **Fluid** — Intuitive swipe gestures replace unnecessary taps and menus.
-- **All-in-One** — Repositories, notifications, and 2FA unified in a single fast app.
+- **Functionality** — Essential GitHub operations should be accessible without relying on a desktop browser.
+- **Simplicity** — A clean interface and intuitive navigation keep the experience focused.
+- **Integration** — Repository management, notifications, editing tools, and authentication belong in one application.
 
 ## Roadmap
 
-- [x] GitHub authentication & account overview
-- [x] Repository browser & file tree viewer
-- [ ] Direct file & README editor with file uploads
-- [ ] Quick-access Releases bar
-- [ ] Swipe gestures (notifications, pinning, deletion)
-- [ ] Built-in 2FA (TOTP) authenticator
-- [x] First public release on GitHub & Orion Store
+The following roadmap outlines the planned development of OctoGit.
+
+- [x] GitHub authentication and account overview
+- [x] Repository browser and file tree viewer
+- [ ] Direct file and README editor
+- [ ] File uploads and asset management
+- [ ] Quick-access Releases section
+- [ ] Gesture-based notification management
+- [ ] Repository pinning and management gestures
+- [ ] Integrated TOTP authenticator
+- [x] Initial public release on GitHub and Orion Store
 
 ## Contributing
 
-Contributions, ideas, and suggestions are always welcome!
+Contributions and suggestions are welcome.
 
-If you have an idea that could make the mobile GitHub experience better, feel free to open an issue or submit a pull request.
+If you have ideas, encounter bugs, or would like to contribute to OctoGit, feel free to open an issue or submit a pull request.
+
+Before submitting major changes, consider opening an issue to discuss the proposed implementation.
 
 ## License
 
-This project is licensed under the **MIT License**.
+OctoGit is open-source software licensed under the [MIT License](LICENSE).
 
----
 ## Contact
 
-**Made by akosdevhu**
+**Developed by akosdevhu**
 
-- GitHub: https://github.com/akosdevhu
-- Instagram: https://www.instagram.com/akosdevhu
-- Email: akosdevhu@gmail.com
+- GitHub: [@akosdevhu](https://github.com/akosdevhu)
+- Instagram: [@akosdevhu](https://www.instagram.com/akosdevhu)
+- Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
+
 ---
 
 <div align="center">
 
 ### Built for developers. Designed for mobile.
 
-<sub>Making GitHub a better experience, one screen at a time.</sub>
+<sub>A more capable GitHub experience, wherever you work.</sub>
 
 <br/><br/>
 
-![Made with passion](https://img.shields.io/badge/Made%20with-Passion-blue?style=flat-square)
+![Made with passion](https://img.shields.io/badge/Developed%20with-Commitment-blue?style=flat-square)
 
 </div>
