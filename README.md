@@ -54,12 +54,12 @@ OctoGit is built around three principles:
 
 The next update focuses on improving the overall experience, expanding functionality, and refining the interface.
 
-- [ ] Explore feature
-- [ ] Image support for releases
-- [ ] Faster and smoother loading performance
-- [ ] Full settings management
-- [ ] Introduction of glass-style UI elements
-- [ ] Fixes for login issues
+- Explore feature
+- Image support for releases
+- Faster and smoother loading performance
+- Full settings management
+- Introduction of glass-style UI elements
+- Fixes for login issues
 
 ## Development Roadmap
 
