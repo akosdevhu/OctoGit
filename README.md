@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="octogitbanner.png" width="200%" alt="OctoGit Banner" />
+<img src="octogitbanner.png" width="300%" alt="OctoGit Banner" />
 
 <br/>
 
