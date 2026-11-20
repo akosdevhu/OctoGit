@@ -104,6 +104,6 @@ OctoGit is open-source software licensed under the [MIT License](LICENSE).
 
 <br/><br/>
 
-![Developed with commitment](https://img.shields.io/badge/Developed%20with-Commitment-blue?style=flat-square)
+![Developed with passion](https://img.shields.io/badge/Developed%20with-Commitment-blue?style=flat-square)
 
 </div>
