@@ -37,7 +37,6 @@ Combining a refined interface with repository management, editing capabilities, 
 | Feature | Description |
 |:---|:---|
 | **Code & README Editing** | Edit repository files, update documentation, and upload assets directly from your device. |
-| **Gesture-Based Navigation** | Manage notifications, pin repositories, and perform common actions using intuitive gestures. |
 | **Release Management** | View, create, and manage repository releases from a dedicated interface. |
 | **OLED-Friendly Interface** | A clean dark interface designed for readability and comfortable mobile use. |
 | **Repository Management** | Browse repositories, explore file structures, and access your GitHub content. |
