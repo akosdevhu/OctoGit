@@ -28,7 +28,7 @@ OctoGit is a mobile GitHub client built to provide a more practical and efficien
 
 While traditional mobile interfaces often focus on browsing and viewing content, OctoGit aims to bring essential development workflows directly to your phone.
 
-Combining a refined interface with repository management, editing capabilities, gesture-based interactions, and integrated security tools, OctoGit aims to make working with GitHub on mobile more accessible.
+Combining a refined interface with repository management, editing capabilities, and gesture-based interactions, OctoGit aims to make working with GitHub on mobile more accessible.
 
 **A complete GitHub workspace, designed for mobile.**
 
@@ -39,7 +39,6 @@ Combining a refined interface with repository management, editing capabilities, 
 | **Code & README Editing** | Edit repository files, update documentation, and upload assets directly from your device. |
 | **Gesture-Based Navigation** | Manage notifications, pin repositories, and perform common actions using intuitive gestures. |
 | **Release Management** | View, create, and manage repository releases from a dedicated interface. |
-| **Integrated 2FA Authenticator** | Built-in TOTP authentication for convenient two-factor code generation. |
 | **OLED-Friendly Interface** | A clean dark interface designed for readability and comfortable mobile use. |
 | **Repository Management** | Browse repositories, explore file structures, and access your GitHub content. |
 
@@ -49,9 +48,20 @@ OctoGit is built around three principles:
 
 - **Functionality** — Essential GitHub operations should be accessible without relying on a desktop browser.
 - **Simplicity** — A clean interface and intuitive navigation keep the experience focused.
-- **Integration** — Repository management, notifications, editing tools, and authentication belong in one application.
+- **Integration** — Repository management, notifications, and editing tools belong in one application.
 
-## Roadmap
+## Next Update — v0.4 Beta
+
+The next update focuses on improving the overall experience, expanding functionality, and refining the interface.
+
+- [ ] Explore feature
+- [ ] Image support for releases
+- [ ] Faster and smoother loading performance
+- [ ] Full settings management
+- [ ] Introduction of glass-style UI elements
+- [ ] Fixes for login issues
+
+## Development Roadmap
 
 The following roadmap outlines the planned development of OctoGit.
 
@@ -95,6 +105,6 @@ OctoGit is open-source software licensed under the [MIT License](LICENSE).
 
 <br/><br/>
 
-![Made with passion](https://img.shields.io/badge/Developed%20with-Commitment-blue?style=flat-square)
+![Developed with commitment](https://img.shields.io/badge/Developed%20with-Commitment-blue?style=flat-square)
 
 </div>
