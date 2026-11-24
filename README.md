@@ -59,6 +59,10 @@ The next update focuses on improving the overall experience, expanding functiona
 - Full settings management
 - Introduction of glass-style UI elements
 - Fixes for login issues
+- In-app message board
+- Official GitHub link support
+- Push notifications
+- Updater notifications
 
 ## Development Roadmap
 
