@@ -97,6 +97,7 @@ OctoGit is open-source software licensed under the [MIT License](LICENSE).
 - GitHub: [@akosdevhu](https://github.com/akosdevhu)
 - Instagram: [@akosdevhu](https://www.instagram.com/akosdevhu)
 - Email: [akosdevhu@gmail.com](mailto:akosdevhu@gmail.com)
+- Join our Discord server: https://discord.gg/hHKrJB62Ah
 
 ---
 
