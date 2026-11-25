@@ -18,6 +18,10 @@ A modern GitHub client designed to bring repository management, code editing, an
 
 [![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=octogit)
 
+<br/>
+
+[![Join Discord](https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MEGHIVO_KOD)
+
 </div>
 
 ---
