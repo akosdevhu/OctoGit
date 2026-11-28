@@ -67,6 +67,7 @@ The next update focuses on improving the overall experience, expanding functiona
 - Official GitHub link support
 - Push notifications
 - Updater notifications
+- OTA updates (only for small updates)
 
 ## Development Roadmap
 
